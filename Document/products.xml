@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM 'product.dtd'>
+<products>
+	<product ID="P001">
+		<name>蜘蛛王皮鞋</name>
+		<price>268</price>
+		<color>黑色</color>
+		<xx>42</xx>
+		<kc>500</kc>
+	</product>
+	<product ID="P002">
+		<name>ThinkPad x240</name>
+		<price>5678</price>
+		<color>黑色</color>
+		<xx>12</xx>
+		<kc>50</kc>
+	</product>
+	<product ID="P003">
+		<name>WD移动硬盘</name>
+		<price>568</price>
+		<color>蓝色</color>
+		<xx>5</xx>
+		<kc>1000</kc>
+	</product>
+</products>

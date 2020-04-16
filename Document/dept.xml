@@ -1,0 +1,23 @@
+
+<depts>
+  <dept>
+    <deptNo>10</deptNo>
+    <dname>ACCOUNTING</dname>
+    <loc>NEW YORK</loc>
+  </dept>
+  <dept>
+    <deptNo>20</deptNo>
+    <dname>RESEARCH</dname>
+    <loc>DALLAS</loc>
+  </dept>
+  <dept>
+    <deptNo>30</deptNo>
+    <dname>SALES</dname>
+    <loc>CHICAGO</loc>
+  </dept>
+  <dept>
+    <deptNo>40</deptNo>
+    <dname>OPERATIONS</dname>
+    <loc>BOSTON</loc>
+  </dept>
+</depts>
